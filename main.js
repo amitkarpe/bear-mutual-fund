@@ -11,10 +11,10 @@ let USDT  = '0xc2132d05d31c914a87c6611c10748aeb04b58e8f'
 let DAI   = '0x8f3cf7ad23cd3cadbd9735aff958023239c6a063'
 
 const fund = new Map([
-    ['FTM','0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5'],
-    ['ONE','0x80c0cbdb8d0b190238795d376f0bd57fd40525f2'],
-    ['ATOM','0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b'],
-    ['NEAR','0x72bd80445b0db58ebe3e8db056529d4c5faf6f2f'],
+    ['wBTC','0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6'],
+    ['wETH','0x7ceb23fd6bc0add59e62ac25578270cff1b9f619'],
+    ['USDC','0x2791bca1f2de4661ed88a30c99a7a9449aa84174'],
+    ['DAI','0x8f3cf7ad23cd3cadbd9735aff958023239c6a063']
   ]);
 
 async function init(){
